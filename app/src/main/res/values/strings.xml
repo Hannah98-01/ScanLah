@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScanLah</string>
+    <string name="copy_toast">Content has been copied</string>
+    <string name="open_browser">Open in browser</string>
+    <string name="Title">Start to scan QR code</string>
+    <string name="default_view_decode">Scan Code</string>
+    <string name="mwc_title">Scan Lah</string>
+</resources>
